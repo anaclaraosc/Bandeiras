@@ -1,0 +1,21 @@
+#retangulo {
+  width: 600px;
+  height: 400px;
+  margin: 100px auto;
+  border: 1px solid #000;
+  background-color: #FFF;
+}
+
+#listraVermelha {
+    width: 600px;
+    height: 133.33px;
+    background-color: #A00000;
+    margin: auto
+}
+
+#listraAzul {
+    width: 600px;
+    height: 133.33px;
+    background-color: #00335F;
+    margin: 134px auto;
+}
